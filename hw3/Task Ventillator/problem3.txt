@@ -1,0 +1,39 @@
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 node01:50792            hw3-node02-1.hw3_n:5558 ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     248133   
+unix  3      [ ]         STREAM     CONNECTED     248130   
+unix  3      [ ]         STREAM     CONNECTED     248139   
+unix  3      [ ]         STREAM     CONNECTED     248136   
+unix  3      [ ]         STREAM     CONNECTED     248132   
+unix  3      [ ]         STREAM     CONNECTED     248131   
+unix  3      [ ]         STREAM     CONNECTED     248138   
+unix  3      [ ]         STREAM     CONNECTED     248135   
+unix  3      [ ]         STREAM     CONNECTED     248134   
+unix  3      [ ]         STREAM     CONNECTED     248137   
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 node01:50792            hw3-node02-1.hw3_n:5558 ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     248133   
+unix  3      [ ]         STREAM     CONNECTED     248130   
+unix  3      [ ]         STREAM     CONNECTED     248139   
+unix  3      [ ]         STREAM     CONNECTED     248136   
+unix  3      [ ]         STREAM     CONNECTED     248132   
+unix  3      [ ]         STREAM     CONNECTED     248131   
+unix  3      [ ]         STREAM     CONNECTED     248138   
+unix  3      [ ]         STREAM     CONNECTED     248135   
+unix  3      [ ]         STREAM     CONNECTED     248134   
+unix  3      [ ]         STREAM     CONNECTED     248137   
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 node01:50792            hw3-node02-1.hw3_n:5558 TIME_WAIT  
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path

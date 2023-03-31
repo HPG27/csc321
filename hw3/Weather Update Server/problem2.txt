@@ -1,0 +1,46 @@
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     125926   
+unix  3      [ ]         STREAM     CONNECTED     125931   
+unix  3      [ ]         STREAM     CONNECTED     125927   
+unix  3      [ ]         STREAM     CONNECTED     125933   
+unix  3      [ ]         STREAM     CONNECTED     125930   
+unix  3      [ ]         STREAM     CONNECTED     125928   
+unix  3      [ ]         STREAM     CONNECTED     125929   
+unix  3      [ ]         STREAM     CONNECTED     125932   
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 node01:38098            hw3-node00-1.hw:freeciv ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     133865   
+unix  3      [ ]         STREAM     CONNECTED     133868   
+unix  3      [ ]         STREAM     CONNECTED     133866   
+unix  3      [ ]         STREAM     CONNECTED     125926   
+unix  3      [ ]         STREAM     CONNECTED     133869   
+unix  3      [ ]         STREAM     CONNECTED     133864   
+unix  3      [ ]         STREAM     CONNECTED     125931   
+unix  3      [ ]         STREAM     CONNECTED     125927   
+unix  3      [ ]         STREAM     CONNECTED     133871   
+unix  3      [ ]         STREAM     CONNECTED     125933   
+unix  3      [ ]         STREAM     CONNECTED     125930   
+unix  3      [ ]         STREAM     CONNECTED     133867   
+unix  3      [ ]         STREAM     CONNECTED     125928   
+unix  3      [ ]         STREAM     CONNECTED     133870   
+unix  3      [ ]         STREAM     CONNECTED     125929   
+unix  3      [ ]         STREAM     CONNECTED     125932   
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 node01:38098            hw3-node00-1.hw:freeciv TIME_WAIT  
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     125926   
+unix  3      [ ]         STREAM     CONNECTED     125931   
+unix  3      [ ]         STREAM     CONNECTED     125927   
+unix  3      [ ]         STREAM     CONNECTED     125933   
+unix  3      [ ]         STREAM     CONNECTED     125930   
+unix  3      [ ]         STREAM     CONNECTED     125928   
+unix  3      [ ]         STREAM     CONNECTED     125929   
+unix  3      [ ]         STREAM     CONNECTED     125932   
